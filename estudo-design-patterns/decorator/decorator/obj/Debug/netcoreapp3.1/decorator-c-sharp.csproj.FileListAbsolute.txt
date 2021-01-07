@@ -1,0 +1,12 @@
+C:\Users\Tayná Alexandra\Desktop\decorator-c-sharp\decorator-c-sharp\bin\Debug\netcoreapp3.1\decorator-c-sharp.exe
+C:\Users\Tayná Alexandra\Desktop\decorator-c-sharp\decorator-c-sharp\bin\Debug\netcoreapp3.1\decorator-c-sharp.deps.json
+C:\Users\Tayná Alexandra\Desktop\decorator-c-sharp\decorator-c-sharp\bin\Debug\netcoreapp3.1\decorator-c-sharp.runtimeconfig.json
+C:\Users\Tayná Alexandra\Desktop\decorator-c-sharp\decorator-c-sharp\bin\Debug\netcoreapp3.1\decorator-c-sharp.runtimeconfig.dev.json
+C:\Users\Tayná Alexandra\Desktop\decorator-c-sharp\decorator-c-sharp\bin\Debug\netcoreapp3.1\decorator-c-sharp.dll
+C:\Users\Tayná Alexandra\Desktop\decorator-c-sharp\decorator-c-sharp\bin\Debug\netcoreapp3.1\decorator-c-sharp.pdb
+C:\Users\Tayná Alexandra\Desktop\decorator-c-sharp\decorator-c-sharp\obj\Debug\netcoreapp3.1\decorator-c-sharp.AssemblyInfoInputs.cache
+C:\Users\Tayná Alexandra\Desktop\decorator-c-sharp\decorator-c-sharp\obj\Debug\netcoreapp3.1\decorator-c-sharp.AssemblyInfo.cs
+C:\Users\Tayná Alexandra\Desktop\decorator-c-sharp\decorator-c-sharp\obj\Debug\netcoreapp3.1\decorator-c-sharp.csproj.CoreCompileInputs.cache
+C:\Users\Tayná Alexandra\Desktop\decorator-c-sharp\decorator-c-sharp\obj\Debug\netcoreapp3.1\decorator-c-sharp.dll
+C:\Users\Tayná Alexandra\Desktop\decorator-c-sharp\decorator-c-sharp\obj\Debug\netcoreapp3.1\decorator-c-sharp.pdb
+C:\Users\Tayná Alexandra\Desktop\decorator-c-sharp\decorator-c-sharp\obj\Debug\netcoreapp3.1\decorator-c-sharp.genruntimeconfig.cache
